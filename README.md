@@ -17,4 +17,4 @@ This dashboard quickly highlights the win/loss ratio for the specific team
 and displays the important statlines for each player on the team.
 
 Below is an example of the dashboard in use.
-![Sample Dashboard](/NBA%20Report.pdf)
+![Sample Dashboard](/sample_dashboard.jpg)
